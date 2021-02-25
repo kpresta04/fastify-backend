@@ -1,0 +1,26 @@
+{
+  "name": "fastify-backend",
+  "version": "1.0.0",
+  "description": "Backend with fastify and PostGres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpresta04/fastify-backend.git"
+  },
+  "author": "Kellen Presta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpresta04/fastify-backend/issues"
+  },
+  "homepage": "https://github.com/kpresta04/fastify-backend#readme",
+  "dependencies": {
+    "fastify": "^3.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
